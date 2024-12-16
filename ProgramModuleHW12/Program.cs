@@ -5,7 +5,7 @@ namespace HelloDocker
     {
         static void Main(string[] args)
         {
-           // 4 комментарий для проверки ci cd
+           // 5 комментарий для проверки ci cd
             Console.WriteLine("Hello, Docker!");
         }
     }
